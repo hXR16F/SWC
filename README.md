@@ -1,7 +1,7 @@
 <p align="center">
 	<b>SWC - Serveo Website Crawler</b>
 	<br>
-	<i>A tool that searches for websites that use [serveo](https://serveo.net).</i>
+	<i>A tool that searches for websites that use <a href="https://serveo.net">serveo</a>.</i>
 	<br><br><br>
 	<img alt="screenshot" src="media/screenshot.gif">
 </p>
